@@ -1,0 +1,16 @@
+{
+  "name": "clashroyaleapi",
+  "version": "1.0.0",
+  "description": "API to extract info from Clash Royale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Cirone",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "config": "^3.1.0",
+    "nodemailer": "^6.1.1"
+  }
+}
